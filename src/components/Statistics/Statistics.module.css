@@ -14,7 +14,7 @@
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 15px;
-  color: #524a4d;
+  color: #383435;
 }
 
 .stats__list {
@@ -33,14 +33,14 @@
 }
 
 .label {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 20px;
-  color: #524a4d8b;
+  color: #523f468b;
   margin-bottom: 5px;
 }
 
 .percentage {
-  font-weight: 800;
+  font-weight: 500;
   font-size: 20px;
-  color: #524a4d;
+  color: #181717;
 }

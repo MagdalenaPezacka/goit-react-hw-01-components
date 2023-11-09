@@ -1,0 +1,29 @@
+.table {
+  margin-top: 30px;
+  box-shadow: 0 0 10px #c6cccced;
+  width: 370px;
+  box-shadow: 0 0 10px #c6cccced;
+  border-radius: 10px;
+}
+.table__title {
+  display: flex;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 5px;
+  justify-content: space-around;
+  color: #232222;
+  background-color: rgb(163, 246, 246);
+}
+.item {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: solid 1px #c6cccce6;
+}
+.item__cell {
+  padding: 10px;
+  width: inherit;
+  font-weight: 600;
+  font-size: 15px;
+  color: #524a4d;
+  justify-content: center;
+}
